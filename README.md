@@ -5,9 +5,6 @@
 
 This whole config is [colorful-minimalist](https://github.com/Redundakitties/colorful-minimalist/) but tweaked to better suit my needs (specifically MacOS's window controls) and a few other things.
 
-## Todo
-- [ ] Fix private browsing window controls and tab bar for MacOS
-
 The rest of the readme is copied from [Redundakitties](https://github.com/Redundakitties)'s Firefox CSS as follows
 
 ---
@@ -102,3 +99,6 @@ Code relating to autohiding the sidebar can be found in [hacks/sideberyMods.css]
 		- made a new file for this called sideberyTweaksv5.txt
 	- removed [custom_menupopup_check_icons.css](https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/custom_menupopup_check_icons.css)
 </details>
+
+## Todo
+- [ ] Fix private browsing window controls and tab bar for MacOS
