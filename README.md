@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > You **need** to install the [Sidebery](https://github.com/mbnuqw/sidebery/releases) addon or else this config will be messed up.
 
-This whole config is [colorful-minimalist](https://github.com/Redundakitties/colorful-minimalist/) but tweaked to better suit my needs (specifically MacOS's window controls) and a few other things.
+This whole config is (essentially) [colorful-minimalist](https://github.com/Redundakitties/colorful-minimalist/) but tweaked to better suit my needs (specifically MacOS's window controls) and a few other things.
 
 The rest of the readme is copied from [Redundakitties](https://github.com/Redundakitties)'s Firefox CSS as follows
 
